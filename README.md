@@ -1,1 +1,0 @@
-# Polip-Segmentasyonu
